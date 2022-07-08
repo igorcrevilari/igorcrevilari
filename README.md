@@ -1,5 +1,4 @@
-<div align="center" dir="auto"><h5><b>Hi! I'm beginner student.<b></h5></div>
-<hr>
+<div align="center" dir="auto"><h3><b>Hi! I'm beginner student.<b></h3></div>
 <div align="center" dir="auto">
   <a href="https://github.com/igorcrevilari">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcrevilari&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%; width= 50%">
@@ -24,6 +23,5 @@
 <a href="https://www.linkedin.com/in/igorcrevilari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <a href = "mailto:ig.crevilari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/users/573857685565341716" target="_blank"><img src="https://img.shields.io/badge/Discord-5838A0?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
-<hr>
 
 
