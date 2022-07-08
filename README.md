@@ -1,4 +1,4 @@
-<div align="center" dir="auto"><h1>Hello World!</h1></div>
+<div align="center" dir="auto"><h3>Hello World!</h3></div>
 <br>
 <div align="center" dir="auto">
   <a href="https://github.com/igorcrevilari">
