@@ -1,4 +1,4 @@
-<div align="center" dir="auto"><h3>Hi! I'm beginner student.</h3></div>
+<div align="center" dir="auto"><h5><b>Hi! I'm beginner student.<b></h5></div>
 <hr>
 <div align="center" dir="auto">
   <a href="https://github.com/igorcrevilari">
