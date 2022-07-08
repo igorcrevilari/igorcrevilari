@@ -1,5 +1,4 @@
 <div align="center" dir="auto"><h3>Hi! I'm beginner student.</h3></div>
-<br>
 <div align="center" dir="auto">
   <a href="https://github.com/igorcrevilari">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcrevilari&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%; width= 50%">
@@ -7,7 +6,6 @@
 </a>
 </div>
 
-<br>
 
 <div align="center">
 <div dir="auto"><br>
