@@ -1,5 +1,6 @@
 <div align="center" dir="auto"><h3><b>Hi, I'm new to programming! I'm currently focusing on Java development.<b></h3></div>
-<div align="center" dir="auto><h2><b>This profile is focused on my projects, studies and small software. Soon I will be publishing more programs using Java. Getting back into action!<b></h2></div>
+
+<div align="center" dir="auto"><h3><b>This profile is focused on my projects, studies and small software. Soon I will be publishing more programs using Java. Getting back into action!<b></h2></div>
 <hr>
 <div align="center"></div>
 
