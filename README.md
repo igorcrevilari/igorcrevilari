@@ -1,4 +1,4 @@
-<div align="center" dir="auto"><h3><b>Hi! I'm beginner student.<b></h3></div>
+<div align="center" dir="auto"><h3><b>Hi, I'm new to programming! I'm currently focusing on Java development.<b></h3></div>
 <hr>
 <div align="center"></div>
 
@@ -19,7 +19,7 @@
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
    <img align="center" alt="Igor-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
-   <img align="center" alt="Igor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;"> —
+   <img align="center" alt="Igor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
 </div>
 <br>
 <div align="center">
