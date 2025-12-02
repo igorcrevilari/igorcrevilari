@@ -5,12 +5,19 @@
 <div align="center"></div>
 
 
-<div align="center" dir="auto">
+<div align="center">
   <a href="https://github.com/igorcrevilari">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcrevilari&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%; width= 50%">
-  <img width="48%" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcrevilari&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%; width= 42%">
-</a>
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=igorcrevilari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcrevilari&layout=compact&langs_count=10&theme=dracula"
+    />
+  </a>
 </div>
+
 
 
 <div align="center">
